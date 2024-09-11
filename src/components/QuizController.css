@@ -1,0 +1,15 @@
+.start-button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: aqua;
+    color: red;
+    cursor: pointer;
+    transition: ease-in-out 1s;
+}
+.start-button:hover{
+    color: aqua;
+    background-color: red;
+}
